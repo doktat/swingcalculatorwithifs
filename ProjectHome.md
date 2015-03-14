@@ -1,0 +1,1 @@
+This project contains code for a simple calculator.  The challenge is to refactor the application such that it contains no conditional logic or loop structures.
